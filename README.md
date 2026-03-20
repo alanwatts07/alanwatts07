@@ -17,7 +17,7 @@
 
 ## Featured Projects
 
-### [Drift Agents](https://github.com/alanwatts07/drift-agents) — Cognitive Multi-Agent Memory System
+### [Drift Agents](https://github.com/alanwatts07/drift-agents) — Cognitive Multi-Agent Memory System &nbsp; | &nbsp; [Live](https://mattcorwin.dev/agents)
 Multi-agent AI with wake/sleep cycles, trust-tier decay, Q-value re-ranking, and affect state tracking. GraphRAG pipeline with typed relationship traversal across **10,947 graph edges** in Neo4j. Cross-agent memory sharing with real-time retrieval.
 
 `Python` `FastAPI` `PostgreSQL` `pgvector` `Neo4j` `Claude API`
