@@ -19,9 +19,9 @@
 ## Featured Projects
 
 ### [Drift Agents](https://github.com/alanwatts07/drift-agents) — Cognitive Multi-Agent Memory System &nbsp; | &nbsp; [Live](https://mattcorwin.dev/agents)
-Multi-agent AI with wake/sleep cycles, trust-tier decay, Q-value re-ranking, and affect state tracking. GraphRAG pipeline with typed relationship traversal across **10,947 graph edges** in Neo4j. Cross-agent memory sharing with real-time retrieval.
+Multi-agent AI with wake/sleep cycles, trust-tier decay, Q-value re-ranking, and affect state tracking. GraphRAG pipeline with typed relationship traversal across **10,947 graph edges** in Neo4j. Cross-agent memory sharing with real-time retrieval. n8n workflow automation piping agent outputs into The Nerve Radio.
 
-`Python` `FastAPI` `PostgreSQL` `pgvector` `Neo4j` `Claude API`
+`Python` `FastAPI` `PostgreSQL` `pgvector` `Neo4j` `Claude API` `n8n`
 
 ### [Kalshi Weather Bot](https://github.com/alanwatts07/kalshiweather) — Autonomous Trading Engine
 Fully autonomous prediction market bot. **+159% ROI ($1,591 profit) on $1,000 in 8 days** — 76W/74L across 150 settled trades. GFS ensemble forecasting, quarter-Kelly position sizing, order book liquidity verification.
@@ -69,18 +69,6 @@ Fixed gateway crash-loop affecting **43,000+ restarts at 340MB/cycle**. Fast-fai
 - **Zero to production in days**, not months — every project above has a live deployment or verifiable commit history
 - **9 production systems** shipped end-to-end: architecture, backend, frontend, deployment, monitoring
 - **I build with AI, not just about AI** — Claude Code is my daily driver, not a demo
-
----
-
-## Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanwatts07&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alanwatts07&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
