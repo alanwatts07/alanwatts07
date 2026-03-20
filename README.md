@@ -11,6 +11,7 @@
 - **Multi-agent memory architectures** with persistent graph knowledge and cross-agent sharing
 - **Autonomous trading engines** with real money, real returns, real risk management
 - **Full-stack platforms** from database to deployment — API, frontend, infra, CI/CD
+- **Automation pipelines** — lead scoring, workflow sequencing, CI/CD, cron-driven trading loops
 - **Live AI systems** that generate content in real-time with zero human intervention
 
 ---
