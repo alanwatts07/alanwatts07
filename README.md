@@ -18,6 +18,11 @@
 
 ## Featured Projects
 
+### [Social Capital: The Currency They Don't Want You to Use](https://github.com/alanwatts07/social-capital-book) — Published Book & Audiobook &nbsp; | &nbsp; [Read Free](https://book.mattcorwin.dev)
+30K word manifesto on strategic altruism and game theory. Generous tit-for-tat applied to real life — bars, neighborhoods, local businesses. Full audiobook narrated by the author. Written, structured, and deployed using Claude Code.
+
+`mdBook` `GitHub Pages` `Audacity` `Claude Code` `Pandoc`
+
 ### [Drift Agents](https://github.com/alanwatts07/drift-agents) — Cognitive Multi-Agent Memory System &nbsp; | &nbsp; [Live](https://mattcorwin.dev/agents)
 Multi-agent AI with wake/sleep cycles, trust-tier decay, Q-value re-ranking, and affect state tracking. GraphRAG pipeline with typed relationship traversal across **10,947 graph edges** in Neo4j. Cross-agent memory sharing with real-time retrieval. n8n workflow automation piping agent outputs into The Nerve Radio.
 
@@ -73,5 +78,5 @@ Fixed gateway crash-loop affecting **43,000+ restarts at 340MB/cycle**. Fast-fai
 ---
 
 <p align="center">
-  <a href="https://mattcorwin.dev">mattcorwin.dev</a> · <a href="https://radio.mattcorwin.dev">The Nerve Radio (live)</a> · <a href="https://www.linkedin.com/in/matthew-corwin-b38347a8/">LinkedIn</a>
+  <a href="https://book.mattcorwin.dev">Social Capital (book)</a> · <a href="https://mattcorwin.dev">mattcorwin.dev</a> · <a href="https://radio.mattcorwin.dev">The Nerve Radio (live)</a> · <a href="https://www.linkedin.com/in/matthew-corwin-b38347a8/">LinkedIn</a>
 </p>
