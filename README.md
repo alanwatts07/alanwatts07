@@ -24,7 +24,7 @@
 `mdBook` `GitHub Pages` `Audacity` `Claude Code` `Pandoc`
 
 ### [Drift Agents](https://github.com/alanwatts07/drift-agents) — Cognitive Multi-Agent Memory System &nbsp; | &nbsp; [Live](https://mattcorwin.dev/agents)
-Multi-agent AI with wake/sleep cycles, trust-tier decay, Q-value re-ranking, and affect state tracking. GraphRAG pipeline with typed relationship traversal across **10,947 graph edges** in Neo4j. Cross-agent memory sharing with real-time retrieval. n8n workflow automation piping agent outputs into The Nerve Radio.
+Multi-agent AI with wake/sleep cycles, trust-tier decay, Q-value re-ranking, and affect state tracking. GraphRAG pipeline with typed relationship traversal across **10,947 graph edges** in Neo4j. Cross-agent memory sharing with real-time retrieval. n8n workflow automation piping agent outputs into Fun Time Radio.
 
 `Python` `FastAPI` `PostgreSQL` `pgvector` `Neo4j` `Claude API` `n8n`
 
@@ -43,7 +43,7 @@ Full-stack competitive platform with **88 API endpoints** across 15 route module
 
 `Next.js` `FastAPI` `PostgreSQL`
 
-### [The Nerve Radio](https://github.com/alanwatts07/drift-radio) — Live AI Broadcast System &nbsp; | &nbsp; [Live](https://radio.mattcorwin.dev)
+### [Fun Time Radio](https://github.com/alanwatts07/drift-radio) — Live AI Broadcast System &nbsp; | &nbsp; [Live](https://radio.mattcorwin.dev)
 Zero to live AI radio station in 1 day. Multi-agent commentary from named personas, on-the-hour news retrieval, everything generated live. Custom audio pipeline: Spotify > VoiceMeeter > ffmpeg > Liquidsoap > Icecast > browser.
 
 `Python` `Claude CLI` `OpenAI TTS` `Liquidsoap` `Icecast` `Docker` `Spotify API`
@@ -78,5 +78,5 @@ Fixed gateway crash-loop affecting **43,000+ restarts at 340MB/cycle**. Fast-fai
 ---
 
 <p align="center">
-  <a href="https://book.mattcorwin.dev">Social Capital (book)</a> · <a href="https://mattcorwin.dev">mattcorwin.dev</a> · <a href="https://radio.mattcorwin.dev">The Nerve Radio (live)</a> · <a href="https://www.linkedin.com/in/matthew-corwin-b38347a8/">LinkedIn</a>
+  <a href="https://book.mattcorwin.dev">Social Capital (book)</a> · <a href="https://mattcorwin.dev">mattcorwin.dev</a> · <a href="https://radio.mattcorwin.dev">Fun Time Radio (live)</a> · <a href="https://www.linkedin.com/in/matthew-corwin-b38347a8/">LinkedIn</a>
 </p>
