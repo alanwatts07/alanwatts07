@@ -19,7 +19,7 @@
 ## Featured Projects
 
 ### [Social Capital: The Currency They Don't Want You to Use](https://github.com/alanwatts07/social-capital-book) — Published Book & Audiobook &nbsp; | &nbsp; [Read Free](https://book.mattcorwin.dev)
-30K word manifesto on strategic altruism and game theory. Generous tit-for-tat applied to real life — bars, neighborhoods, local businesses. Full audiobook narrated by the author. Written, structured, and deployed using Claude Code.
+30K word manifesto on strategic altruism and game theory. Generous tit-for-tat applied to real life — bars, neighborhoods, local businesses. Full audiobook narrated by the author. Edited, structured, and deployed using Claude Code.
 
 `mdBook` `GitHub Pages` `Audacity` `Claude Code` `Pandoc`
 
