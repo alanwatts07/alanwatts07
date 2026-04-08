@@ -23,6 +23,11 @@
 
 `mdBook` `GitHub Pages` `Audacity` `Claude Code` `Pandoc`
 
+### [March Madness ML](https://github.com/alanwatts07/CBB_ML) — NCAA Tournament Prediction System
+**Called the exact 2026 championship matchup: Michigan vs UConn.** Multi-model ensemble (XGBoost, LASSO, Monte Carlo) trained on KenPom efficiency data predicted the champion (Michigan) and the runner-up (UConn) before the tournament started. 3/4 Final Four correct. Live mid-tournament simulator updated odds as games happened. Model-vs-Vegas spread analysis found profitable betting edges (2/3 cashed). XGBoost discovered non-linear "champion DNA" through feature interactions that linear models completely missed.
+
+`Python` `XGBoost` `scikit-learn` `KenPom` `SQLite` `Monte Carlo` `LASSO`
+
 ### [Drift Agents](https://github.com/alanwatts07/drift-agents) — Cognitive Multi-Agent Memory System &nbsp; | &nbsp; [Live](https://mattcorwin.dev/agents)
 Multi-agent AI with wake/sleep cycles, trust-tier decay, Q-value re-ranking, and affect state tracking. GraphRAG pipeline with typed relationship traversal across **10,947 graph edges** in Neo4j. Cross-agent memory sharing with real-time retrieval. n8n workflow automation piping agent outputs into Fun Time Radio.
 
@@ -72,7 +77,7 @@ Fixed gateway crash-loop affecting **43,000+ restarts at 340MB/cycle**. Fast-fai
 
 - **Swarm methodology** — break work into parallel streams, run multiple AI agents on independent subtasks, integrate outputs
 - **Zero to production in days**, not months — every project above has a live deployment or verifiable commit history
-- **9 production systems** shipped end-to-end: architecture, backend, frontend, deployment, monitoring
+- **10 production systems** shipped end-to-end: architecture, backend, frontend, deployment, monitoring
 - **I build with AI, not just about AI** — Claude Code is my daily driver, not a demo
 
 ---
